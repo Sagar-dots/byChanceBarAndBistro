@@ -60,6 +60,3 @@ export default function ButtonGhost({ children, ...rest }) {
   )
 }
 
-// INTERNAL AND EXTERNAL LINK
-// <ButtonGhost as="a" href="https://cirocki.pl">external</ButtonGhost>
-// <ButtonGhost to="/about">internal</ButtonGhost>

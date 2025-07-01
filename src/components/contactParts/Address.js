@@ -9,9 +9,9 @@ const StyledParagraph = styled.p`
 export default function Address() {
   return (
     <div>
-      <StyledParagraph>Mondello Ristorante</StyledParagraph>
-      <StyledParagraph>Via delle Viole 186</StyledParagraph>
-      <StyledParagraph>90100 Palermo PA</StyledParagraph>
+      <StyledParagraph>By Chance Bar and Bistro</StyledParagraph>
+      <StyledParagraph>1 Webber Cres, </StyledParagraph>
+      <StyledParagraph>Calwell ACT 2905</StyledParagraph>
     </div>
   )
 }

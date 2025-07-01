@@ -22,15 +22,9 @@ export default function Phone() {
   return (
     <StyledDiv>
       <p>
-        <StyledLink href="tel:+486546767">
+        <StyledLink href="tel:0431210767">
           <StyledIcon icon={faPhone} />
           (+39) 654-67-67
-        </StyledLink>
-      </p>
-      <p>
-        <StyledLink href="tel:+590560560">
-          <StyledIcon icon={faMobileAlt} style={{ marginRight: "1rem" }} />
-          590-560-560
         </StyledLink>
       </p>
     </StyledDiv>

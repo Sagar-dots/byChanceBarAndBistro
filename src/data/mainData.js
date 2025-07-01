@@ -1,7 +1,7 @@
 export const mainData = {
-  websiteTitle: "Mondello",
-  address: "Via delle Viole 186, 90149 Palermo",
+  websiteTitle: "ByChanceBar",
+  address: "1 Webber Cres, Calwell ACT 2905",
   lang: "eng",
-  author: "CIROCKI.PL",
+  author: "Sagar Bastakoti",
   authorURL: "https://cirocki.pl/",
 }

@@ -31,7 +31,7 @@ export default function FastLinks() {
               cover
               direction="right"
               duration={1}
-              bg="#968b63"
+              bg="#d5cad0"
             >
               {item.name}
             </StyledLink>
