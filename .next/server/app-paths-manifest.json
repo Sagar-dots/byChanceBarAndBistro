@@ -1,0 +1,6 @@
+{
+  "/slice-simulator/page": "app/slice-simulator/page.js",
+  "/page": "app/page.js",
+  "/icon.svg/route": "app/icon.svg/route.js",
+  "/[uid]/page": "app/[uid]/page.js"
+}
